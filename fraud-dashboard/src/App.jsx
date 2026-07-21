@@ -89,7 +89,7 @@ export default function App() {
   };
 
   useEffect(() => {
-    const ws = new WebSocket('ws://127.0.0.1:8000/ws/transactions');
+    const ws = new WebSocket('wss://aml-guardian-backend-ysy8.onrender.com/ws/transactions');
 
     ws.onopen = () => setSystemStatus('SYSTEM ACTIVE');
 
