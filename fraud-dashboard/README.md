@@ -1,5 +1,6 @@
-# React + Vite
+# AML Guardian Core
 
+**🚀 Live Demo:** [Click here to view the AML Guardian Dashboard](https://aml-guardian-core.vercel.app)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
